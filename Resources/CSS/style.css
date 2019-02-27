@@ -1,0 +1,28 @@
+body {
+  background-color: white
+}
+h1, h2, p, li{
+  font-family: Helvetica;
+}
+h1 {
+  text-align: center;
+}
+.description {
+  font-size: 20px;
+  text-align: center;
+}
+.ingredients li {
+  list-style: square;
+}
+.external-link {
+  color: SeaGreen;
+}
+#cook-time {
+  font-weight: bold;
+  text-align: center;
+  font-size: 25px;
+}
+#time {
+  background-color: grey;
+  color: white;
+}
